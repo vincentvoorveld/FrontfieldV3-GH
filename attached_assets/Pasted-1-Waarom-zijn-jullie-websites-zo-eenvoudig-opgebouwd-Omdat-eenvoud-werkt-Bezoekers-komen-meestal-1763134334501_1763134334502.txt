@@ -1,0 +1,82 @@
+1. Waarom zijn jullie websites zo eenvoudig opgebouwd?
+
+Omdat eenvoud werkt. Bezoekers komen meestal niet voor visuele trucs of complexe effecten, maar voor duidelijke informatie: wie je bent, wat je doet, hoe ze je bereiken en wanneer je open bent. Een eenvoudige website zorgt dat die informatie direct gevonden wordt, zonder afleiding of frustratie. Het resultaat: sneller, duidelijker en klantvriendelijker.
+
+2. Waarom gebruiken jullie geen cookies of trackers?
+
+De websites die ik bouw bevatten bewust geen tracking-cookies en geen verborgen meetinstrumenten. De meeste bedrijven hebben dat helemaal niet nodig, en bezoekers worden vaak juist geïrriteerd door pop-ups en keuzes die onduidelijk of lastig zijn.
+Door geen trackers te gebruiken blijft de site schoon, snel en privacyvriendelijk. Het enige nadeel is dat je minder inzicht hebt in bezoekersgedrag — maar voor veel ondernemers is dat een prima ruil voor een betere gebruikerservaring.
+
+3. Wat zijn de voordelen van een eenvoudige website ten opzichte van een ‘visueel spectaculaire’ site?
+
+Mooie websites zijn leuk, maar meestal niet waar bezoekers op wachten. Een eenvoudige website:
+
+laadt veel sneller,
+
+werkt op alle apparaten,
+
+geeft direct antwoord zonder overload,
+
+is minder foutgevoelig,
+
+en leidt tot meer contactmomenten omdat alles duidelijk en toegankelijk is.
+Eenvoudige sites doen wat ze moeten doen: informeren en converteren zonder gedoe.
+
+4. Voor welke bedrijven of situaties zijn deze websites het meest geschikt?
+
+Voor bedrijven die vooral duidelijke informatie willen bieden: denk aan dienstverleners, freelancers, lokale bedrijven, coaches, praktijken, kleine ondernemingen en makers.
+Kort gezegd: iedereen die zijn klant wil helpen met heldere info, zonder ingewikkelde functies of webshops.
+
+5. Kan ik later altijd extra functies laten toevoegen?
+
+Nee. Ik heb bewust gekozen om websites zo simpel mogelijk te houden. Geen webshops, geen complexe systemen, geen extra modules.
+Dit houdt de sites snel, veilig, overzichtelijk én betaalbaar.
+Wel kan ik later teksten of foto’s voor je aanpassen als je nieuwe informatie wilt toevoegen.
+
+6. Waarom zit er geen webshop-functionaliteit in jullie standaardpakket?
+
+Omdat webshops technisch complex zijn en veel onderhoud vragen. Dat past niet bij mijn filosofie van eenvoudige, overzichtelijke websites die iedereen begrijpt.
+Wil je wél een webshop, dan adviseer ik een specialistische oplossing die daarvoor is gemaakt.
+
+7. Hoe werkt het onderhoud van zo’n eenvoudige website?
+
+De sites zijn zo simpel mogelijk opgebouwd, waardoor er weinig kan stukgaan. Geen databases, geen plug-ins, geen updates die je zelf moet bijhouden.
+Wil je gegevens aanpassen, nieuwe foto’s toevoegen of iets wijzigen? Dan kan ik dat altijd voor je doen.
+
+8. Hoe werkt de hosting en moet ik daar zelf iets voor regelen?
+
+Nee. Ik zet de website voor je op via GitHub Pages en koppel daar jouw domeinnaam aan. Je hoeft dus geen hostingpakket te kopen of instellingen te beheren.
+Het werkt snel, stabiel en is perfect voor eenvoudige websites.
+
+9. Zijn jullie websites ook geschikt voor mobiele telefoons?
+
+Ja. Alle websites worden mobiel-vriendelijk gebouwd. In veel gevallen ziet een bezoeker de site zelfs eerder op mobiel dan op een laptop, dus daar wordt extra aandacht aan besteed.
+
+10. Heb ik een cookiemelding nodig als ik later zelf extra tools installeer?
+
+Alleen als je zelf trackingsoftware of marketingtools toevoegt. Zolang de site blijft zoals ik hem oplever — zonder trackers of externe scripts — is een cookiemelding niet nodig.
+
+11. Hoe ziet het proces eruit vanaf aanvraag tot oplevering?
+
+Heel eenvoudig:
+
+Je geeft aan wat je wilt laten zien op je site (teksten, foto’s, info).
+
+Ik bouw een eerste versie en stem die met je af.
+
+We werken eventuele aanpassingen door.
+
+Ik zet de site online op jouw domein.
+Omdat er geen ingewikkelde systemen worden gebruikt, gaat dit proces meestal snel en soepel.
+
+12. Bieden jullie ook hulp bij het schrijven van teksten?
+
+Ja. Ik kan helpen met het herschrijven of verduidelijken van teksten, zodat je boodschap helder en toegankelijk wordt.
+
+13. Kan ik mijn eigen domeinnaam gebruiken of moet ik een nieuwe kopen?
+
+Je kunt je eigen domeinnaam gebruiken. Mocht je nog geen domein hebben, dan help ik je bij de aanschaf en koppel ik deze aan de website.
+
+14. Kan ik mijn bestaande website laten omzetten naar een simpelere variant?
+
+Ja, dat kan. Als je huidige site te druk, langzaam of ingewikkeld is, kan ik een nieuwe, slanke versie maken die alleen de belangrijkste informatie bevat. Heel geschikt voor ondernemers die rust en duidelijkheid zoeken.

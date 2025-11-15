@@ -1,0 +1,51 @@
+Controleer en verbeter de SEO van dit project op basis van de volgende punten:
+
+Titel en meta-tags
+
+Verkort de title-tag tot maximaal 60 tekens, met behoud van de belangrijkste zoekwoorden “Frontfield Websites” en “Nederlandse webdesign diensten”.
+
+Voeg een duidelijke meta description toe van ongeveer 155 tekens die beschrijft wat Frontfield Websites doet.
+
+Voeg eventueel een meta keywords-tag toe met termen als: webdesign, websites, Nederlandse websites, professionele websites, frontfield.
+
+Favicon en Apple-touch-icon
+
+Voeg in de head toe:
+
+<link rel="icon" href="favicon.ico" type="image/x-icon"> <link rel="apple-touch-icon" href="apple-touch-icon.png"> - Controleer of de bestanden in de hoofdmap bestaan; zo niet, maak placeholders aan.
+
+Headings en content
+
+Voeg een duidelijke H1 toe die overeenkomt met de titel (bijvoorbeeld: Professionele Nederlandse webdesign diensten).
+
+Voeg minimaal 250 woorden tekst toe over wat Frontfield Websites doet, inclusief: diensten, doelgroep, voordelen, en waarom klanten voor Frontfield kiezen.
+
+Zorg dat de tekst verdeeld is over meerdere paragrafen (p-elementen).
+
+Linkstructuur
+
+Voeg minstens één interne link toe naar een relevante subpagina of sectie (zoals Onze diensten of Contact).
+
+Voeg minstens één externe link toe (bijvoorbeeld naar het LinkedIn-profiel of een portfolio).
+
+Social media en deelopties
+
+Voeg onderaan knoppen toe voor delen via LinkedIn en Facebook, bijvoorbeeld:
+<a href="https://www.linkedin.com/shareArticle?url=https://frontfield.nl" target="_blank">Deel op LinkedIn</a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://frontfield.nl" target="_blank">Deel op Facebook</a>
+
+Technische SEO-elementen
+
+Controleer of er een meta viewport aanwezig is met de inhoud: width=device-width, initial-scale=1.0.
+
+Voeg lang="nl" toe aan het html-element als dat nog ontbreekt.
+
+Controleer dat alle afbeeldingen een alt-attribuut hebben.
+
+Backlinks (niet uitvoerbaar in code)
+
+Voeg onderaan de pagina een tekstregel toe die bezoekers aanmoedigt om te linken naar de site, bijvoorbeeld:
+Vind je deze site interessant? Link gerust naar frontfield.nl – dat helpt ons groeien!
+
+Doel: pas de HTML-code aan zodat alle bovenstaande punten technisch correct zijn geïmplementeerd, zonder bestaande stijl of functionaliteit te breken.
+Geef na afloop een korte samenvatting van welke SEO-verbeteringen je hebt doorgevoerd.
